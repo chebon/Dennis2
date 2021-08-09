@@ -8,7 +8,7 @@ export const greetings = {
     name: "Dennis Chebon",
     title: "Hi all, I'm Chebon",
     description: "A passionate Full Stack Web Developer and Mobile App Developer having an experience of building Web applications with JavaScript / Angular / React / Angular js / Nodejs / Php / Laravel / Python / Django / Flask and some other cool libraries and frameworks and Cross Platform Mobile Apps With React Native. Keep Scrolling For more!",
-    resumeLink: "https://cv.Dennis.ga",
+    resumeLink: "https://drive.google.com/file/d/1eSK5rtSsBnpITpp8CQuFooKB-U6-WMrA/view?usp=sharing",
 };
 
 export const openSource = {
