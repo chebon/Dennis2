@@ -3,8 +3,8 @@
 	"version": "1.0.0",
 	"description": "Software Developer Portfolio Template built with react.js bootstrap that helps you showcase your work and skills as a software developer.",
 	"main": "index.js",
-	"repository": "https://github.com/1hanzla100/hanzla-portfolio.git",
-	"author": "Hanzla <59178380+1hanzla100@users.noreply.github.com>",
+	"repository": "https://github.com/chebon/Dennis.git",
+	"author": "chebon <59178380+1chebon100@users.noreply.github.com>",
 	"license": "MIT",
 	"dependencies": {
 		"@apollo/client": "^3.3.21",

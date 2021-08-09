@@ -1,8 +1,8 @@
 import emoji from "react-easy-emoji";
 
-import googlelogo from "./assets/img/icons/common/google.svg";
-import github from "./assets/img/icons/common/github.svg";
-import airbnb from "./assets/img/icons/common/airbnbLogo.png";
+import googlelogo from "./assets/img/icons/common/socialight.png";
+import github from "./assets/img/icons/common/BRK.png";
+import airbnb from "./assets/img/icons/common/Emed.png";
 
 export const greetings = {
     name: "Dennis Chebon",
